@@ -1,3 +1,10 @@
+/**
+ * building as a tool to help understand how this would be implemented
+ * behaviour is done through buttons. ideally we would want an animation 
+ * for tiles flipping or switching according to how Reversi is played. 
+ * Will be similar in terms of buttons, however 
+ */
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
