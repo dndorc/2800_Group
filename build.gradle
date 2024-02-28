@@ -1,0 +1,3 @@
+dependencies {
+    implementation 'org.glassfish.tyrus.bundles:tyrus-standalone-client:1.15'
+}
